@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="8bef3910-631e-439e-802c-7b65ee48f7e4" name="aliyun" url="http://bxu2359380275.my3w.com/">
+        <fileTransfer host="bxu2359380275.my3w.com" port="21" rootFolder="/htdocs">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
